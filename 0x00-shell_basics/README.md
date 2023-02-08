@@ -1,1 +1,1 @@
-script that creates a directory named my_first_directory in the /tmp/ directory
+cript that copies all the HTML files from the current working directory to the parent of the working directory
